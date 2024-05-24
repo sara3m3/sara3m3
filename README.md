@@ -1,6 +1,6 @@
-### boas vindas ao meu perfil 👸
+### sejam bem vindos ao meu perfil 👸
 
-**sou sara,** aqui_estao_ **alguns** dos meus projetos realizados durante as aulas da Alura
+**sou a sara,** aqui_estao_ **alguns** dos meus projetos realizados durante as aulas da Alura
 
 ### meu contato ### 📧
 
